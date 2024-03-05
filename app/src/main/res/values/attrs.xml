@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorLinearLayoutBackground" format="reference" />
+    <attr name="inactiveColor" format="reference" />
+    <attr name="background_custom" format="reference" />
+    <attr name="statusBarColor_custom" format="reference" />
+    <attr name="navigationBarColor" format="reference" />
+    <attr name="title_custom" format="reference" />
+    <attr name="price_color" format="reference" />
+    <attr name="lap_1" format="reference" />
+    <attr name="lap_2" format="reference" />
+    <attr name="lap_3" format="reference" />
+    <attr name="lap_4" format="reference" />
+    <attr name="lap_5" format="reference" />
+    <attr name="lap_6" format="reference" />
+    <attr name="lap_7" format="reference" />
+    <attr name="lap_8" format="reference" />
+    <attr name="lap_9" format="reference" />
+    <attr name="lap_10" format="reference" />
+    <attr name="lap_11" format="reference" />
+    <attr name="lap_12" format="reference" />
+    <attr name="lap_13" format="reference" />
+    <attr name="lap_14" format="reference" />
+</resources>
